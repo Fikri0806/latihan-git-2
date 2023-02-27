@@ -9,5 +9,9 @@
 <body>
     <h1>Hello Semua</h1>
     <p>Lorem ipsum dolor sit amet consectet</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
